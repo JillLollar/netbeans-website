@@ -1,5 +1,7 @@
 = Apache NetBeans web sites
 
+image:https://badges.gitter.im/Writer-book/writebook.svg[link="https://gitter.im/Writer-book/writebook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
+
 This repository is structured in different *subdirectories*, for different subdomains.
 
 link:netbeans.apache.org[netbeans.apache.org]:: Main Apache NetBeans website
